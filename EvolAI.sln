@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvolAI", "GodAI\GodAI\EvolAI.csproj", "{45BFA926-3AB4-4727-BFE9-6F131ADDE76B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvolAIAPI", "EvolAI\EvolAIAPI\EvolAIAPI.csproj", "{45986256-3E2B-44C8-952E-25864BB56ED1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvolAITESTS", "GodAI\GODAITEST\EvolAITESTS.csproj", "{7AEFD61B-5DD0-419A-9724-C0B621F1E53A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvolAITESTS", "EvolAI\EvolAITEST\EvolAITESTS.csproj", "{573DD977-2FB3-4C8B-A97C-857E02A72978}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvolAIAPI", "GodAI\GodAIAPI\EvolAIAPI.csproj", "{FBC170E0-C86F-4E04-A110-40D6278D4636}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvolAI", "EvolAI\EvolAI\EvolAI.csproj", "{13B79EE0-E7A9-4A15-A638-9EDB8F4616DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{45BFA926-3AB4-4727-BFE9-6F131ADDE76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45BFA926-3AB4-4727-BFE9-6F131ADDE76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{45BFA926-3AB4-4727-BFE9-6F131ADDE76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{45BFA926-3AB4-4727-BFE9-6F131ADDE76B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7AEFD61B-5DD0-419A-9724-C0B621F1E53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7AEFD61B-5DD0-419A-9724-C0B621F1E53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7AEFD61B-5DD0-419A-9724-C0B621F1E53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7AEFD61B-5DD0-419A-9724-C0B621F1E53A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FBC170E0-C86F-4E04-A110-40D6278D4636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FBC170E0-C86F-4E04-A110-40D6278D4636}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FBC170E0-C86F-4E04-A110-40D6278D4636}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FBC170E0-C86F-4E04-A110-40D6278D4636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45986256-3E2B-44C8-952E-25864BB56ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45986256-3E2B-44C8-952E-25864BB56ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45986256-3E2B-44C8-952E-25864BB56ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45986256-3E2B-44C8-952E-25864BB56ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573DD977-2FB3-4C8B-A97C-857E02A72978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573DD977-2FB3-4C8B-A97C-857E02A72978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573DD977-2FB3-4C8B-A97C-857E02A72978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573DD977-2FB3-4C8B-A97C-857E02A72978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B79EE0-E7A9-4A15-A638-9EDB8F4616DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B79EE0-E7A9-4A15-A638-9EDB8F4616DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B79EE0-E7A9-4A15-A638-9EDB8F4616DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B79EE0-E7A9-4A15-A638-9EDB8F4616DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

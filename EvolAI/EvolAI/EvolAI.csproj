@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GodAIAPI\EvolAIAPI.csproj" />
+    <ProjectReference Include="..\EvolAIAPI\EvolAIAPI.csproj" />
   </ItemGroup>
 
 </Project>
